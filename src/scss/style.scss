@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(../img/img1.jpg);
+  color: rgb(68, 43, 10);
+  h1 {
+    font-size: 50px;
+  }
+}
+span{
+    color: rgb(235, 250, 215);
+}
